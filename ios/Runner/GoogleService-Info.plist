@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>556547654549-8se0oq86io3lst17tlssshk24cdh56t1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.556547654549-8se0oq86io3lst17tlssshk24cdh56t1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA4FSQnm2qdK8R_U4uV3aHqfNZEWUtNw6I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>556547654549</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.analytics</string>
+	<key>PROJECT_ID</key>
+	<string>analytics-6cfe5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>analytics-6cfe5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:556547654549:ios:b4dfc65c2f664b990dac9c</string>
+	<key>DATABASE_URL</key>
+	<string>https://analytics-6cfe5.firebaseio.com</string>
+</dict>
+</plist>
